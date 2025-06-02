@@ -38,6 +38,5 @@
 - 🧑‍💻 Portfolio: *coming soon*
 
 ---
-
-> ⚡ Tip: This profile adapts to GitHub’s dark/light theme automatically.
+ 
 
