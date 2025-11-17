@@ -63,10 +63,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 - 💼 **LinkedIn**: [linkedin.com/in/nitin864](https://linkedin.com/in/nitin864)  
 - 🧑‍💻 **Portfolio**: *Coming Soon*  
 - 🐦 **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle) *(Optional: Add if you have one)*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Connect GIF" width="400" height="250"/>
-</p>
+ 
 
 ---
 
