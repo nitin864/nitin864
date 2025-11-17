@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Nitin</h1>
-<h3 align="center">Full-Stack Developer | Passionate about Building Innovative Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+problem-solving.;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+code+and+innovation.;Open+to+collaborations!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
-I'm a dedicated full-stack developer with expertise in modern web and mobile technologies. I enjoy creating efficient, scalable applications and continuously learning new tools to stay ahead in the tech world. When I'm not coding, you can find me exploring new ideas or contributing to open-source projects.
+I'm a dedicated developer with expertise in modern web and mobile technologies. I enjoy creating efficient, scalable applications and continuously learning new tools to stay ahead in the tech world. When I'm not coding, you can find me exploring new ideas or contributing to open-source projects.
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" height="250"/>
