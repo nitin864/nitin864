@@ -61,7 +61,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 - 📧 **Email**: [rajnitin793@gmail.com](mailto:rajnitin793@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/nitin864](https://linkedin.com/in/nitin864)  
-- 🧑‍💻 **Portfolio**: *Coming Soon*  
+- 🧑‍💻 **Portfolio**: (https://nitin-theta.vercel.app/)
 - 🐦 **Twitter**: [x.com/rajnitin793](https://twitter.com/rajnitin793) 
  
 
