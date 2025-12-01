@@ -161,8 +161,5 @@ A simple chat interface built in JavaScript
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
-### 🧠 Philosophy  
-> "Keep building, keep growing — step by step, project by project."
-
-### 😄 Fun Fact  
+   
 I believe great developers are made through **consistency**, not perfection.
