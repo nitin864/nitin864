@@ -40,6 +40,7 @@ Currently exploring **advanced React Native**, **Next.js**, and **Cloud Services
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![OneRender](https://img.shields.io/badge/OneRender-000000?style=flat&logo=render&logoColor=white)
 
 ---
 
