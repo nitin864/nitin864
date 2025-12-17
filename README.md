@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hello, I'm Nitin</h1>
 
-💻 Full-Stack Developer | 📱 React Native Developer | JAVA  
+💻 Self taught Full-Stack Developer | 📱 React Native Developer | JAVA  
 [Prtfolio](https://nitin-theta.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nitin864) · 🐦 [Twitter](https://x.com/rajnitin793)  
 
 ---
