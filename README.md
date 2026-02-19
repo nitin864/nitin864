@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack & Mobile Developer** specializing in modern JavaScript frameworks.  
+I'm a passionate **Full-Stack & Android Developer** specializing in modern JavaScript frameworks.  
 I love building **mobile apps**, **real-time systems**, and **full-stack applications** that solve real-world problems.  
 
 Currently exploring **advanced React Native**, **Next.js**, and **Cloud Services** to grow into a complete full-stack engineer.
