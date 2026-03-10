@@ -164,4 +164,4 @@ A simple chat interface built in JavaScript
 </p>
 
    
-I believe great developers are made through **consistency**, not perfection.
+
