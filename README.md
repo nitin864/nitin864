@@ -163,5 +163,5 @@ A simple chat interface built in JavaScript
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
-   
+I believe great developers are made through **consistency**, not perfection.
 
