@@ -10,7 +10,7 @@
 I'm a passionate **Full-Stack & Android Developer** specializing in modern JavaScript frameworks.  
 I love building **mobile apps**, **real-time systems**, and **full-stack applications** that solve real-world problems.  
 
-Currently exploring **advanced React Native**, **Next.js**, and **Cloud Services** to grow into a complete full-stack engineer.
+Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **Spring Services JWT**, and **Cloud Services** to grow into a complete full-stack engineer.
 
 ---
 
