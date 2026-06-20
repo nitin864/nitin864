@@ -19,7 +19,7 @@ Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **S
 ### 🧩 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -45,7 +45,7 @@ Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **S
 ---
 
 ## 📘 Learning Zone
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 ![Next.js Advanced](https://img.shields.io/badge/Next.js_Advanced-000000?style=flat&logo=next.js)
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat&logo=openai)
