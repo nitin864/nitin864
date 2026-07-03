@@ -133,14 +133,7 @@ A simple chat interface built in JavaScript
 </p>
 
 ---
-
-## 🎯 Goals for 2025
-- 🚀 Build 3+ full-stack / mobile products  
-- 🌐 Master advanced Next.js & React Native  
-- 🧠 Learn backend scalability & cloud deployment  
-- 📦 Publish open-source starter kits  
-- 🤝 Collaborate with more developers  
-- 🎥 Start posting tech content consistently  
+ 
 
 ---
 
