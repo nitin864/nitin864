@@ -16,7 +16,7 @@ Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **S
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+### 📱 App Development
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat\&logo=expo\&logoColor=white)
