@@ -66,21 +66,7 @@ Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **S
 
 ## 📂 Projects & Milestones
 
-### 🎬 **CineCue**
-A complete movie discovery app. Fetches live trends using TMDB API.  
-🔗 https://github.com/nitin864/CineCue
-
-### 🗺️ **Real-Time Tracking System**
-Live GPS tracking using Socket.IO + Leaflet.js  
-🔗 https://github.com/nitin864/Real_time_tracking_system
-
-### 💬 **Socket.io Chat App**
-A lightning-fast real-time chat application  
-🔗 https://github.com/nitin864/Socket.io_chat
-
-### 💭 **Daphine Chat App**
-A simple chat interface built in JavaScript  
-🔗 https://github.com/nitin864/Daphine_a_chat_app
+check my repo as it's vast to explain here gng ;-) 
 
 ---
 
