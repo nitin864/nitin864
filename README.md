@@ -34,7 +34,7 @@
 
 ## About
 
-I'm a second year Information Technology student at Narula Institute of Technology, Kolkata, and a practicing full stack engineer. I build production grade web and mobile applications, including real time systems, cross platform apps, and data heavy backends.
+I'm a second year Information Technology guy at Narula Institute of Technology, Kolkata, and a practicing full stack engineer. I build production grade web and mobile applications, including real time systems, cross platform apps, and data heavy backends.
 
 My current interests sit at the intersection of backend systems engineering and aerospace software, which led to OrbitShield, a satellite conjunction detection engine tracking 16,000+ live objects.
 
