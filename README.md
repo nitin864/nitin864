@@ -17,6 +17,10 @@
   <a href="https://x.com/rajnitin793">Twitter</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitin864/nitin864/main/status-banner.svg" />
+</p>
+
 <br />
 
 ## Profile
@@ -65,10 +69,6 @@ I have delivered multiple production ready applications across React Native and 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin864&theme=tokyonight" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitin864/nitin864/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br />
