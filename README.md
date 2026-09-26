@@ -1,86 +1,45 @@
-<h1 align="left">I'm Nitin</h1>
+# Nitin Raj
 
-💻 Self taught Dev | React Native Developer | JAVA | Next.js
-[Portfolio](https://nitin-theta.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/nitin864) · 🐦 [Twitter](https://x.com/rajnitin793)  
+Full Stack Developer specializing in React Native and Next.js
 
----
+[Portfolio](https://nitin-theta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nitin864) · [GitHub](https://github.com/nitin864) · [Twitter](https://x.com/rajnitin793)
 
-## 🧑‍💻 About Me
+## Profile
 
-I'm a **Full-Stack & Android Developer** specializing in modern JavaScript frameworks.  
-I love building **mobile apps**, **real-time systems**, and **full-stack applications** that solve real-world problems.  
+I build production grade mobile and web applications using React Native, Next.js, and Node.js. My work spans real time systems, cross platform mobile apps, and full stack products from initial architecture through deployment. I am currently deepening my expertise in Spring Boot, Kafka, Docker, and microservice architecture to round out my capability across the full stack, including backend systems built on the JVM.
 
-Currently exploring **advance Spring Boot , Kafka , Docker, Microservices**, **Spring Services JWT**, and **Cloud Services** to grow into a complete full-stack engineer.
+I care about writing code that is maintainable and about systems that hold up under real usage, not just in a demo.
 
----
+## Technical Skills
 
-## 🛠️ Tech Stack
+**Mobile Development**
+React Native, Expo, TypeScript
 
-### 📱 App Development
+**Web Development**
+React, Next.js, Tailwind CSS, Vite
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat\&logo=expo\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+**Backend and APIs**
+Node.js, Express.js, Socket.IO, Java, Spring Boot (in progress)
 
-### 🌐 Web Development
+**Data and Cloud**
+MongoDB, Firebase, AWS EC2, Docker
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+**Tooling**
+Git, GitHub, Vercel, Render, Linux
 
-### ⚙️ Backend & APIs
+## Currently Learning
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat\&logo=socket.io\&logoColor=white)
+Advanced Spring Boot, Kafka, Docker orchestration, Microservices, JWT based authentication with Spring Security, and cloud infrastructure.
 
-### 🗄️ Databases & Cloud
+## Projects
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+A full list of projects with detailed writeups is available on my GitHub repositories. Highlights include production React Native applications, full stack web platforms, and real time systems built with WebSockets.
 
-### ☁️ DevOps & Infrastructure
+## Experience Highlights
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat\&logo=amazon-ec2\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+I have delivered multiple production ready applications across React Native and full stack JavaScript, built real time systems using WebSockets, and worked extensively with the React ecosystem and REST APIs. I also mentor peers on full stack fundamentals and stay current with emerging tools in the JavaScript and cloud ecosystem.
 
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat\&logo=render\&logoColor=white)
-
-
----
-
-## 📘 Learning Zone
-
-![Next.js Advanced](https://img.shields.io/badge/Next.js_Advanced-000000?style=flat&logo=next.js)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat&logo=openai)
-
----
-
-## 📂 Projects & Milestones
-
-check my repo as it's vast to explain here gng ;-) 
-
----
-
-## 🏆 Achievements
-
-- 🚀 Built multiple production-ready React Native & full-stack apps  
-- 🧭 Created real-time systems using WebSockets  
-- 💡 Strong experience with React Ecosystem & REST APIs  
-- 📚 Teaching & helping peers understand full-stack fundamentals  
-- 🌱 Consistently learning new tech and improving
-
----
-
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin864&show_icons=true&theme=tokyonight" height="170px" />
@@ -91,68 +50,17 @@ check my repo as it's vast to explain here gng ;-)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin864&layout=compact&theme=tokyonight" height="150px" />
 </p>
 
----
-
-## 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nitin864&theme=radical&no-bg=true&no-frame=true&column=6" />
 </p>
 
----
-
-## 📈 Contribution Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin864&theme=react-dark&hide_border=true" />
 </p>
 
----
+## Contact
 
-## 📚 Comprehensive GitHub Stats  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin864&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin864&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin864&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin864&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin864&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
- 
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitin864"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rajnitin793@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/nitin864"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://x.com/rajnitin793"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-</p>
-
----
-
-## 📊 Profile Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-📈-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Followers-👥 15-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stars-⭐ 2-yellow?style=for-the-badge">
-</p>
-
----
-
-## 📡 Contribution Metrics  
-🔗 **[Detailed GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin864&theme=tokyonight)**
-
----
-
-## 🎉 Thanks for visiting!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
-
-I believe great developers are made through **consistency**, not perfection.
-
+Email: rajnitin793@gmail.com
+LinkedIn: [nitin864](https://www.linkedin.com/in/nitin864)
+GitHub: [nitin864](https://github.com/nitin864)
+Twitter: [@rajnitin793](https://x.com/rajnitin793)
