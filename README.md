@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin864/nitin864/main/status-banner.svg" />
-</p>
-
-<p align="center">
   <a href="https://nitin-theta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-nitin--theta.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white" />
   </a>
@@ -123,7 +119,7 @@ Currently interning as a Back End Developer at Accesco Living (Aug 2026 – Pres
 
 **Back End Developer Intern** · Accesco Living · Aug 2026 – Present
 
-**Java Developer Intern** · Zaalima Development Pvt. Ltd · Mar – Jul 2026
+**Java Developer Intern** · Zaalima Development Pvt. Ltd · Mar – Jul 2026  
 Led development of VaultCore Financial, a secure full stack Neo-Bank core infrastructure simulation built with Java and Spring Framework.
 
 ---
@@ -146,6 +142,14 @@ Led development of VaultCore Financial, a secure full stack Neo-Bank core infras
 - Studying Spring Boot, Kafka, and Docker microservice patterns
 - Second year B.Tech IT student at Narula Institute of Technology, Kolkata
 - Open to internships, contracts, and interesting builds
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin864&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=38bdf8&line=6366f1&point=f8fafc&area=true&area_color=6366f1" alt="Contribution activity graph" />
+</p>
 
 ---
 
